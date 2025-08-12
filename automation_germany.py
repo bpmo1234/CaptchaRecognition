@@ -82,9 +82,9 @@ def decode_batch_predictions(pred):
 
 def send_message(receipents,subject='Nothing',body="Nothing to Update",subtype=None):
     # Define email sender and receiver
-    email_sender = ''
-    email_password = ''
-    email_receiver = receipents
+    email_sender = 'bpmo1996@gmail.com'
+    email_password = 'uzqz dmsu gynn wdne'
+    email_receiver = 'suvproduction@gmail.com'
     #email_receiver ='asadismaeel@gmail.com'
     # Set the subject and body of the email
     #subject = 'Appointment Update'
