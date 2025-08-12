@@ -43,9 +43,9 @@ dst_data="./"
 #links=["https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=amst&realmId=1113&categoryId=2324",
 #       "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=amst&realmId=1113&categoryId=2324&dateStr=03.05.2023"]
 # Ismbd
-links=["https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203",
-      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203&dateStr=03.03.2023",
-      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203&dateStr=03.05.2023"]
+links=["https://service2.diplo.de/rktermin/extern/choose_category.do?locationCode=ouag&realmId=795&categoryId=1462",
+      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=ouag&realmId=795&categoryId=1462&dateStr=14.09.2025",
+      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=ouag&realmId=795&categoryId=1462&dateStr=14.09.2025"]
 
 checkstatus=100
 currtix=0
